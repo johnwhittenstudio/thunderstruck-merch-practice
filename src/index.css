@@ -60,7 +60,7 @@ a {
   /* border: 2px solid black; */
   width: 30%;
   padding: 1%;
-  margin-top: 1%;
+  /* margin-top: 1%; */
 }
 .row-center {
   align-items: center;
@@ -77,7 +77,7 @@ button {
   border-radius: 0.5rem;
   height: 2rem;
   border: 0.1rem #404040 solid;
-  background-color: #111111;
+  background-color: #003548;
   color: lightgrey;
   width: 80%;
   justify-items: center;
